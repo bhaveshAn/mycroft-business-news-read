@@ -1,0 +1,7 @@
+{
+  "utterance": "tell me business news",
+  "intent_type": "BusinessNewsIntent",
+  "intent": {
+    "BusinessNewsKeyword": "business news"
+  }
+}
